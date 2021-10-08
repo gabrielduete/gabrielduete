@@ -1,7 +1,7 @@
-<img src = 'banner.png'>
+<h1><img src = 'banner.png'></h1>
 
 <div style = 'text-align: center;'>
-<h1 style = "align: center" > About me </h1>
+<h1 align="center" > About me </h1>
 </div>
 
 <h3> Portuguese </h3>
