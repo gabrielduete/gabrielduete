@@ -2,9 +2,9 @@
 
 <div style = 'text-align: center;'>
 <h1 style = "align: center" > About me </h1>
-</div
+</div>
 
-<h2> Portuguese </h2>
+<h3> Portuguese </h3>
 <h3 syle = 'color: green'>
     Estudante de programação focado em aprender desenvolvimento web front-end. Atualmente no quarto semestre de S.I pelo IFCE. Empolgado para aprender e ensinar outras pessoas, para que de alguma forma possa contribuir com a comunidade Tech. Sempre em constante estudo para ampliar meu conhecimento ou aprender novas tecnologias. Sou bastante fácil de lidar por estar sempre ouvindo o próximo.
 </h3>
