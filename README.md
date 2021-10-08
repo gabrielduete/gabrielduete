@@ -37,21 +37,21 @@
 </div>
 
 <h1 align = 'center' > Hobbies </h1>
-<p>
-💪 Musculação: Pratico e estudava musculação, no momento parado a mais de dois anos por conta da pandemia :/. <br><br>
-🎮 Games: Gosto de jogar desde de pequeno quando ganhei meu primeiro PS2. Meu jogo favorito de todos é League OF Legends, onde cheguei a pegar mestre lá.<br><br>
-🧧 Animes: Curto bastante animes, eles me dão emoções incriveis! Junto com séries e filmes também :).<br><br>
-📕 HQ's e Livros: Gosto de ler HQ's da Marvel e DC, principalmente as do Venom e Flash. Estou lendo todos os livros de Assassin's creed e também alguns de algoritmos.<br><br>
+
+<p>💪 Musculação: Pratico e estudava musculação, no momento parado a mais de dois anos por conta da pandemia :/.</p> <br><br>
+<p>🎮 Games: Gosto de jogar desde de pequeno quando ganhei meu primeiro PS2. Meu jogo favorito de todos é League OF Legends, onde cheguei a pegar mestre lá.</p> <br><br>
+<p>🧧 Animes: Curto bastante animes, eles me dão emoções incriveis! Junto com séries e filmes também :).</p> <br><br>
+<p>📕 HQ's e Livros: Gosto de ler HQ's da Marvel e DC, principalmente as do Venom e Flash. Estou lendo todos os livros de Assassin's creed e também alguns de algoritmos.</p> <br><br>
 </p>
 
 <h1 align = 'center' > Fala Comigo! </h1>
   <a alt = 'Me mande um email' href = "mailto:gabrielmonteiroduete@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a alt = 'Cheque meu linkedin' href="https://www.linkedin.com/in/gabrielduete/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a alt = 'Cheque meu instagram' href="https://www.instagram.com/gabriel.duete/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a alt = 'Cheque meu twitter' href='https://twitter.com/GabrielDuetee' target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a><br>
+    <a alt = 'Cheque meu twitter' href='https://twitter.com/GabrielDuetee' target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a alt = 'Alguns vídeos aleatórios' href='https://www.youtube.com/channel/UC6gDHpv2bxUT4dGU_ihcp0w' target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a><br>
+  
 <br>
-
 <blockquote><br>
     Espero que você tenha gostado de me conhecer. Até mais! 👋 
 </<blockquote><br>
