@@ -38,11 +38,10 @@
 
 <h1 align = 'center' > Hobbies </h1>
 
-<p>💪 Musculação: Pratico e estudava musculação, no momento parado a mais de dois anos por conta da pandemia :/.</p> <br><br>
-<p>🎮 Games: Gosto de jogar desde de pequeno quando ganhei meu primeiro PS2. Meu jogo favorito de todos é League OF Legends, onde cheguei a pegar mestre lá.</p> <br><br>
-<p>🧧 Animes: Curto bastante animes, eles me dão emoções incriveis! Junto com séries e filmes também :).</p> <br><br>
-<p>📕 HQ's e Livros: Gosto de ler HQ's da Marvel e DC, principalmente as do Venom e Flash. Estou lendo todos os livros de Assassin's creed e também alguns de algoritmos.</p> <br><br>
-</p>
+<p>💪 Musculação: Pratico e estudava musculação, no momento parado a mais de dois anos por conta da pandemia :/.</p>
+<p>🎮 Games: Gosto de jogar desde de pequeno quando ganhei meu primeiro PS2. Meu jogo favorito de todos é League OF Legends, onde cheguei a pegar mestre lá.</p>
+<p>🧧 Animes: Curto bastante animes, eles me dão emoções incriveis! Junto com séries e filmes também :).</p>
+<p>📕 HQ's e Livros: Gosto de ler HQ's da Marvel e DC, principalmente as do Venom e Flash. Estou lendo todos os livros de Assassin's creed e também alguns de algoritmos.</p>
 
 <h1 align = 'center' > Fala Comigo! </h1>
   <a alt = 'Me mande um email' href = "mailto:gabrielmonteiroduete@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
