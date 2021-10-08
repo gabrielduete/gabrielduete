@@ -31,9 +31,13 @@
 </div>
 
 <h1 align = 'center' > Hobbies </h1>
-
-<h1 align = 'center' > Fala Comigo! </h1>
+💪 Musculação: Pratico e estudava musculação, no momento parado a mais de dois anos por conta da pandemia :/. <br><br>
+🎮 Games: Gosto de jogar desde de pequeno quando ganhei meu primeiro PS2. Meu jogo favorito de todos é League OF Legends, onde cheguei a pegar mestre lá.<br><br>
+🧧 Animes: Curto bastante animes, eles me dão emoções incriveis! Junto com séries e filmes também :).<br><br>
+📕 HQ's e Livros: Gosto de ler HQ's da Marvel e DC, principalmente as do Venom e Flash. Estou lendo todos os livros de Assassin's creed e também alguns de algoritmos.<br><br>
 
 <h1 align = 'center' > Status </h1>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielduete&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+
+<h1 align = 'center' > Fala Comigo! </h1>
 
