@@ -1,15 +1,15 @@
-### Hi there 👋
-
 <img src = 'banner.png'>
 
-<h1 style = 'text-align: center'> About me </h1>
+<div style = 'text-align: center;'>
+<h1 style = "align: center" > About me </h1>
+</div
 
 <h2> Portuguese </h2>
 <h3 syle = 'color: green'>
     Estudante de programação focado em aprender desenvolvimento web front-end. Atualmente no quarto semestre de S.I pelo IFCE. Empolgado para aprender e ensinar outras pessoas, para que de alguma forma possa contribuir com a comunidade Tech. Sempre em constante estudo para ampliar meu conhecimento ou aprender novas tecnologias. Sou bastante fácil de lidar por estar sempre ouvindo o próximo.
 </h3>
 
-<h2> English </h2>
+<h3> English </h3>
 <h3>
     Programming student focused on learning front-end web development. Currently in the fourth semester of SI by IFCE. Excited to learn and teach others so that I can somehow contribute to the Tech community. Always studying to expand my knowledge or learn new technologies. I'm pretty easy going as I'm always listening to others.
 </h3>
