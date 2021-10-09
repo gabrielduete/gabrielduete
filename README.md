@@ -36,8 +36,8 @@
 
 <h1 align = 'center' > Status </h1>
 <div display: 'inline-block'>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielduete&show_icons=true&bg_color=0C0101&text_color=FF0000&title_color=FF0000&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielduete&layout=compact&langs_count=7&bg_color=0C0101&text_color=FF0000&title_color=FF0000"/>    
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielduete&show_icons=true&bg_color=0C0101&text_color=FF0000&title_color=FF0000&include_all_commits=true&count_private=true&locale=pt-br"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielduete&layout=compact&langs_count=7&bg_color=0C0101&text_color=FF0000&title_color=FF0000&locale=pt-br"/>    
 </div>
 
 <br>
