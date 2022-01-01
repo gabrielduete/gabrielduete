@@ -4,7 +4,7 @@
 
 <h1 align = 'center' > Bem vindo(a)! </h1>
 <h3 align= 'center' ><em>
-    Me chamo Gabriel Duete, tenho 20 anos e sou desenvolvedor com foco em front-end. Atualmente no quarto semestre de S.I pelo IFCE. Empolgado para aprender e ensinar outras pessoas, para que de alguma forma possa contribuir com a comunidade Tech. Sempre em constante estudo para ampliar meu conhecimento ou aprender novas tecnologias. Sou bastante fácil de lidar por estar sempre ouvindo o próximo.</em>
+    Me chamo Gabriel Duete, tenho 20 anos e sou desenvolvedor frontend na Juntos Somos Mais ❤️. Atualmente no quarto semestre de S.I pelo IFCE. Empolgado para aprender e ensinar outras pessoas, para que de alguma forma possa contribuir com a comunidade Tech. Sempre em constante estudo para ampliar meu conhecimento ou aprender novas tecnologias. Sou bastante fácil de lidar por estar sempre ouvindo o próximo.</em>
 </h3>
 
 <br>
