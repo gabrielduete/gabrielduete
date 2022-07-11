@@ -4,7 +4,7 @@
 
 <h1 align = 'center' > Bem vindo(a)! </h1>
 <h3 align= 'center' ><em>
-    Me chamo Gabriel Duete, tenho 21 anos e sou desenvolvedor frontend na Juntos Somos Mais 💙. Atualmente cursando de S.I pelo IFCE. Empolgado para aprender e ensinar outras pessoas, para que de alguma forma possa contribuir com a comunidade Tech. Sempre em constante estudo para ampliar meu conhecimento ou aprender novas tecnologias. Sou bastante fácil de lidar por estar sempre ouvindo o próximo.</em>
+    Me chamo Gabriel Duete, tenho 21 anos e sou desenvolvedor frontend na Juntos Somos Mais 💙. Atualmente cursando S.I pelo IFCE. Empolgado para aprender e ensinar outras pessoas, para que de alguma forma possa contribuir com a comunidade Tech. Sempre em constante estudo para ampliar meu conhecimento ou aprender novas tecnologias. Sou bastante fácil de lidar por estar sempre ouvindo o próximo.</em>
 </h3>
 
 <br>
@@ -52,7 +52,7 @@
 
 <br>
 
-<h3>Vistos nas disciplinas da faculdade: </h3>
+<h3>📚 Vistos nas disciplinas da faculdade: </h3>
 <div display: 'inline-block'>
     <img src = 'https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white'>
     <img src = 'https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white'>
