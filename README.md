@@ -1,11 +1,21 @@
-<table>
+<!-- <table>
   <tr>
     <td valign="top"><img src="mirio-gif-1.gif" width = '400px' height = '226px' /><img src="obitin.gif" width = '400px' height = '226px'/> <img src="eh-os-comes.gif" width = '400px' height = '226px'/></td>
     <td valign="top"><img src="banner-2.png"/></td>
     <td valign="top"> <img src="mirio-gif-1.gif"/><img src="mirio-gif-1.gif"/></td>
   </tr>
-</table>
+</table> -->
 
+<div display: 'inline-block'>
+    <div>
+        <img src="mirio-gif-1.gif" width = '400px' height = '226px'/>
+        <img src="obitin.gif" width = '400px' height = '226px'/>
+        <img src="eh-os-comes.gif" width = '400px' height = '226px'/>
+    </div>
+    <div>
+        <img src="banner-2.png"/>
+    </div>
+</div>
 <br>
 
 <h1 align = 'center' > Bem vindo(a)! </h1>
