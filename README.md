@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td valign="top"><img src="mirio-gif-1.gif" width = '200px' height = '226px' /><img src="obitin.gif" width = '200px' height = '226px'/> <img src="eh-os-comes.gif" width = '200px' height = '226px'/></td>
+    <td valign="top"><img src="mirio-gif-1.gif" width = '200px' height = '222px' /><img src="obitin.gif" width = '200px' height = '222px'/> <img src="eh-os-comes.gif" width = '200px' height = '222px'/></td>
     <td valign="top" width = '400px'><img src="banner-2.png" height= '667px'/></td>
     <td valign="top"> <img src="chuvinha.gif" width = '200px' height = '667px'/> </td>
   </tr>
