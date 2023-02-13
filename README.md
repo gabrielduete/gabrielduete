@@ -69,7 +69,6 @@
 <div display: 'inline-block'>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielduete&show_icons=true&bg_color=0C0101&text_color=FF0000&title_color=FF0000&include_all_commits=true&count_private=true&locale=pt-br"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielduete&layout=compact&langs_count=7&bg_color=0C0101&text_color=FF0000&title_color=FF0000&locale=pt-br"/>
-    <a href="https://app.daily.dev/gabrielduete"><img src="https://api.daily.dev/devcards/444ee164c4bb42819ab8c41e7f99a2c0.png?r=z6d" width="100" alt="Gabriel Duete's Dev Card"/></a>
 </div>
 
 
