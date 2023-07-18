@@ -8,7 +8,7 @@
 
 <h1 align = 'center' > Bem vindo(a)! </h1>
 <h3 align= 'center' ><em>
-    Me chamo Gabriel Duete, tenho 21 anos e sou desenvolvedor frontend na Juntos Somos Mais 💙. Atualmente cursando S.I pelo IFCE. Empolgado para aprender e ensinar outras pessoas, para que de alguma forma possa contribuir com a comunidade Tech. Sempre em constante estudo para ampliar meu conhecimento ou aprender novas tecnologias. Sou bastante fácil de lidar por estar sempre ouvindo o próximo.</em>
+    Me chamo Gabriel Duete, tenho 22 anos e sou desenvolvedor frontend na Juntos Somos Mais 💙. Atualmente cursando S.I pelo IFCE. Empolgado para aprender e ensinar outras pessoas, para que de alguma forma possa contribuir com a comunidade Tech. Sempre em constante estudo para ampliar meu conhecimento ou aprender novas tecnologias. Sou bastante fácil de lidar por estar sempre ouvindo o próximo.</em>
 </h3>
 
 <br>
@@ -37,6 +37,7 @@
 <div display: 'inline-block'>
     <img src = 'https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white' >
     <img src = 'https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white' >
+    <img src = 'https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white' >
     <img src = 'https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white' >
 </div>
 
@@ -90,8 +91,8 @@
    <a alt = 'Cheque meu linkedin' href="https://www.linkedin.com/in/gabrielduete/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a alt = 'Cheque meu instagram' href="https://www.instagram.com/gabriel.duete/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a alt = 'Cheque meu twitter' href='https://twitter.com/GabrielDuetee' target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a alt = 'Alguns vídeos aleatórios' href='https://www.youtube.com/channel/UC6gDHpv2bxUT4dGU_ihcp0w' target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a><br>
-  
+  <a alt = 'Vídeos de tecnologia' href='https://www.youtube.com/channel/UC6gDHpv2bxUT4dGU_ihcp0w' target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a><br>
+  <a alt = 'Artigos escritos no dev.to' href='https://dev.to/gabrielduete' target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" target="_blank"></a><br>  
 <br>
 <blockquote><br>
     Espero que você tenha gostado de me conhecer. Até mais! 👋 
