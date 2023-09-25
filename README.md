@@ -7,9 +7,9 @@
 </table>
 
 <h1 align = 'center' > Bem vindo(a)! </h1>
-<h3 align= 'center' ><em>
+<p align= 'center' ><em>
     Me chamo Gabriel Duete, tenho 22 anos e sou desenvolvedor frontend na Juntos Somos Mais 💙. Atualmente cursando S.I pelo IFCE. Empolgado para aprender e ensinar outras pessoas, para que de alguma forma possa contribuir com a comunidade Tech. Sempre em constante estudo para ampliar meu conhecimento ou aprender novas tecnologias. Sou bastante fácil de lidar por estar sempre ouvindo o próximo.</em>
-</h3>
+</p>
 
 <br>
 
@@ -65,15 +65,6 @@
     <img src = 'https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white'>
     <img src = 'https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white'> 
 </div>
-
-<br>
-
-<h1 align = 'center' > Status </h1>
-<div display: 'inline-block'>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielduete&show_icons=true&bg_color=0C0101&text_color=FF0000&title_color=FF0000&include_all_commits=true&count_private=true&locale=pt-br"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielduete&layout=compact&langs_count=7&bg_color=0C0101&text_color=FF0000&title_color=FF0000&locale=pt-br"/>
-</div>
-
 
 <br>
 
