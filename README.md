@@ -68,16 +68,6 @@
 
 <br>
 
-<h1 align = 'center' > Participação no 100DiasDeCodigo</h1>
-
-<a href="https://100-dias-de-codigo-github-readme.vercel.app/?username=gabrielduetee">
-  <img src="https://100-dias-de-codigo-github-readme.vercel.app/?username=gabrielduetee" width="450" height="195" alt="Progresso 100 dias de codigo">
-</a>
-
-
-
-<br>
-
 <h1 align = 'center' > Hobbies </h1>
 
 <p>💪 Musculação: Pratico e estudava musculação, no momento parado a mais de dois anos por conta da pandemia.</p>
