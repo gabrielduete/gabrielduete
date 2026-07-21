@@ -1,4 +1,4 @@
-<img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/087b047f-90fa-4471-a149-090b922cb8bc" />
+<img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/ef7792b7-3ded-49c7-ab8d-663b4a2003cb" />
 
 <h1 align = 'center' > Bem vindo(a)! </h1>
 <p align= 'center' ><em>
