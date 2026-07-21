@@ -1,10 +1,4 @@
-<table>
-  <tr>
-    <td valign="top"><img src="mirio-gif-1.gif" width = '200px' height = '180px' /><img src="obitin.gif" width = '200px' height = '180px'/> <img src="eh-os-comes.gif" width = '200px' height = '180px'/></td>
-    <td valign="top" align='center' width = '700px'><img src="banner-2.png" height= '550px'/></td>
-    <td valign="top"> <img src="chuvinha.gif" width = '200px' height = '550px'/> </td>
-  </tr>
-</table>
+<img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/087b047f-90fa-4471-a149-090b922cb8bc" />
 
 <h1 align = 'center' > Bem vindo(a)! </h1>
 <p align= 'center' ><em>
