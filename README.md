@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://gabrielduete.com" target="_blank">
-    <img src="https://img.shields.io/badge/Blog-46CE7A?style=for-the-badge&logo=hashnode&logoColor=132227">
+    <img src="https://img.shields.io/badge/Blog-132227?style=for-the-badge&logo=hashnode&logoColor=46CE7A">
   </a>
   <a href="https://www.linkedin.com/in/gabrielduete/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-20272F?style=for-the-badge&logo=linkedin&logoColor=46CE7A">
@@ -120,7 +120,7 @@
   <br>
   <br>
   <a href="https://gabrielduete.com" target="_blank">
-    <img src="https://img.shields.io/badge/Ler_o_blog-46CE7A?style=for-the-badge&logo=hashnode&logoColor=132227">
+    <img src="https://img.shields.io/badge/IR_PARA_O_BLOG-132227?style=for-the-badge&logo=hashnode&logoColor=46CE7A">
   </a>
 </h3>
 
@@ -137,7 +137,7 @@
   <br>
   <br>
   <a href="https://duetesolutions.com" target="_blank">
-    <img src="https://img.shields.io/badge/Conhecer_a_Duete-46CE7A?style=for-the-badge&logoColor=132227">
+    <img src="https://img.shields.io/badge/CONHECER-132227?style=for-the-badge&logoColor=46CE7A">
   </a>
 </h3>
 
